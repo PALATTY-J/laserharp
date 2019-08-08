@@ -1,5 +1,7 @@
 # LASER harp
 # Author :Rituparna Matkar
+# Edited By: Palatty Jesvin Joseph 
+# for Arduino UNO
 # This script reads the inputs from the serial port and play notes accordingly
 import pygame, serial, time
 
